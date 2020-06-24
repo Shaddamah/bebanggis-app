@@ -16,7 +16,7 @@ bebanggis is an android app project with purpose to help kids learn English
 ## Installation
 Simply Download/Clone to your drive and open the project folder with [Android Studio](https://developer.android.com/studio) to get started
 
-## Teams
+## Team Member / Contributor
 * **Programming by** [Adrian Daniel](https://github.com/adriandk)
 * **Design and concept by** [Shaddam Amru Hasibuan](https://github.com/Shaddamah)
 
